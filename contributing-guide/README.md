@@ -1,7 +1,8 @@
 ### Start Contributing to windO Project:
 To start contributing to windO follow the below steps:
 
-1. Choose component to work one
+1. Choose component to work on
+
 	You can choose one of the following repositories
 	* [windO Docs](https://github.com/OpenWindO/windO-docs) - Markdown, PDF, DOCX
 	* [windO Backend](https://github.com/OpenWindO/windO-backend) - Python 3.8.x
